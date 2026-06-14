@@ -1,5 +1,5 @@
 # Fraud Detection using Machine Learning
-
+Accuracy: 99.4% | Dataset: 21,000 transactions | Tools: Python · Scikit-learn
 ## 📊 Overview
 This project aims to detect fraudulent financial transactions using machine learning techniques.
 
